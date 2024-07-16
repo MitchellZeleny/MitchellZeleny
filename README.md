@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MitchellZeleny
-- 👀 I’m interested in software development. Mostly in app or video game development, but am open to anything.
+- 👀 I’m interested in software development and have confidence using C++ and Python.
 - 🌱 I recieved my Associate's Degree May of 2024 in Computer Science.
-- 💞️ I’m looking to collaborate on any projects to help advance my work portfolio.
-- 📫 How to reach me: mitchell.g.z@outlook.com
+- 💞️ Currently working onm an API to UI project that sends text reminders for any activity you set activity in your schedule.
+- 📫 How to reach me: zelenymitchell@gmail.com
 
 <!---
 MitchellZeleny/MitchellZeleny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
